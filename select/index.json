@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Tiramisu",
+  "base_artist": "Don Toliver",
+  "createdAt": "2026-03-09T07:51:39.350532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Tiramisu de Limon",
+      "artist": "Joaquín Sabina",
+      "has_synced": true,
+      "path": "select/01_Tiramisu_de_Limon_Joaquín_Sabina.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tiramisú de limón",
+      "artist": "Joaquín Sabina & Pereza",
+      "has_synced": true,
+      "path": "select/02_Tiramisú_de_limón_Joaquín_Sabina_&_Pereza.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tiramisu",
+      "artist": "PRO8L3M",
+      "has_synced": false,
+      "path": "select/03_Tiramisu_PRO8L3M.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tiramisu Cake (Feat. CHOI YU-RI) (Originally Performed by We Are The Night)",
+      "artist": "KIM SUNG-CHEOL",
+      "has_synced": true,
+      "path": "select/04_Tiramisu_Cake_(Feat._CHOI_YU-RI)_(Originally_Performed_by_We_Are_The_Night)_KIM_SUNG-CHEOL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tiramisu De Limon",
+      "artist": "Joaquín Sabina Con Pereza",
+      "has_synced": true,
+      "path": "select/05_Tiramisu_De_Limon_Joaquín_Sabina_Con_Pereza.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tiramisu fraise",
+      "artist": "La Fine Equipe",
+      "has_synced": true,
+      "path": "select/06_Tiramisu_fraise_La_Fine_Equipe.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tiramisu Cake",
+      "artist": "위아더나잇",
+      "has_synced": true,
+      "path": "select/07_Tiramisu_Cake_위아더나잇.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tiramisu Cake",
+      "artist": "We Are The Night",
+      "has_synced": true,
+      "path": "select/08_Tiramisu_Cake_We_Are_The_Night.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tiramisu de Limon",
+      "artist": "Joaquin Sabina",
+      "has_synced": true,
+      "path": "select/09_Tiramisu_de_Limon_Joaquin_Sabina.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tiramisu Cake",
+      "artist": "10cm",
+      "has_synced": false,
+      "path": "select/10_Tiramisu_Cake_10cm.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tiramisu Cake (Feat. CHOI YU-RI) (Originally Performed by We Are The Night) (티라미수 케익...",
+      "artist": "Kim Sung Cheol",
+      "has_synced": true,
+      "path": "select/11_Tiramisu_Cake_(Feat._CHOI_YU-RI)_(Originally_Performed_by_We_Are_The_Night)_(티라미_Kim_Sung_Cheol.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tiramisu Cake (Feat. CHOI YU-RI) (Originally Performed by We Are The Night) (티라미수 케익 (feat. CHOI YU-RI)",
+      "artist": "KIM SUNG-CHEOL",
+      "has_synced": true,
+      "path": "select/12_Tiramisu_Cake_(Feat._CHOI_YU-RI)_(Originally_Performed_by_We_Are_The_Night)_(티라미_KIM_SUNG-CHEOL.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tiramisu",
+      "artist": "Bausch, Jörg",
+      "has_synced": false,
+      "path": "select/13_Tiramisu_Bausch,_Jörg.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Tiramisu Cake (티라미수 케익)",
+      "artist": "10CM",
+      "has_synced": true,
+      "path": "select/14_Tiramisu_Cake_(티라미수_케익)_10CM.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tiramisu",
+      "artist": "Jörg Bausch",
+      "has_synced": false,
+      "path": "select/15_Tiramisu_Jörg_Bausch.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tiramisu Cake (Feat. CHOI YU-RI) (Originally Performed by We Are The Night) (티라미수 케익",
+      "artist": "KIM SUNG-CHEOL",
+      "has_synced": true,
+      "path": "select/16_Tiramisu_Cake_(Feat._CHOI_YU-RI)_(Originally_Performed_by_We_Are_The_Night)_(티라미_KIM_SUNG-CHEOL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tiramisu",
+      "artist": "Don Toliver",
+      "has_synced": false,
+      "path": "select/pl_01_Tiramisu_Don_Toliver.txt"
+    }
+  ]
+}
